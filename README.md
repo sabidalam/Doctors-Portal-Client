@@ -12,3 +12,7 @@
 4. Stripe payment method.
 
 5. Firebase and JWT Authentication.
+
+# Admin
+email: saad@gmail.com
+password: 123456
